@@ -1,0 +1,6 @@
+pip install xlrd
+pip install pandas
+pip install fpdf2
+pip install inflect
+pip install pyfiglet
+pip install pytest
